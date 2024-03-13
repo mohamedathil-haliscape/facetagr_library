@@ -1,9 +1,5 @@
-import com.android.build.gradle.internal.cxx.prefab.createPrefabPublication
-import com.android.build.gradle.internal.utils.createPublishingInfoForLibrary
-
 plugins {
     id("com.android.library")
-    id("maven-publish")
 }
 
 android {
